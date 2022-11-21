@@ -1,0 +1,35 @@
+/* .auth-page {
+    margin-left: 30vw;
+    margin-right: 30vw;
+    margin-top: 2vh;
+    margin-bottom: 30vh;
+    padding: 40px;
+} */
+
+/* .leftsidebar-container {
+    margin-top: 5vh;
+    margin-right: 76vw;
+    margin-bottom: 10vh;
+    padding-bottom: 18vh;
+    padding-top: 1px;
+    padding-left: 20px;
+    background-color:aqua;
+} */
+
+/* .parent {
+    border: 1px solid black;
+    margin: 1rem;
+    padding: 2rem 2rem;
+    text-align: center;
+  }
+  .child {
+    display: inline-block;
+    border: 1px solid red;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+  } */
+
+.home-container {
+    border: 1px solid red;
+    margin: 5vh;
+}

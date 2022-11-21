@@ -1,0 +1,56 @@
+/* login page center */
+.login {
+    display: grid;
+    place-items: center;
+    height: 71vh;
+    border: 1px solid black;
+    padding: 0px;
+}
+
+/* submit button */
+.login>button {
+    width: 250px;
+    background-color: #2e81f4;
+    color: #eff2f5;
+    font-weight: 800;
+}
+
+.login>button:hover {
+    background-color: white;
+    color: #2e81f4;
+}
+
+/* logo */
+.login>div>img {
+    object-fit: contain;
+    height: 150px;
+}
+
+.login>div {
+    display: flex;
+    flex-direction: column;
+}
+
+.email-container {
+    margin-right: 191px;
+}
+
+.password-container {
+    margin-right: 193px;
+}
+
+.confirm-password-container {
+    margin-right: 147px;
+}
+
+.login__logo {
+    margin-bottom: 0px;
+}
+
+.signup-container {
+    margin-left: 30vw;
+    margin-right: 30vw;
+    margin-top: 2vh;
+    margin-bottom: 20vh;
+    padding: 40px;
+}
